@@ -1,6 +1,6 @@
 **Hi there, welcome to my Git profile** 👋
 
-Junior Software Engineer with more than a year of commertial experience. I have excellent knowledge in backend development on Java. In general worked with monolitic and serverless arthitectures. Big part of my acitities is open-source.
+Junior Software Engineer with more than a year of commertial experience. I have excellent knowledge in backend development on Java. In general worked with monolitic and service oriented arthitectures. Big part of my acitities is open-source.
 
 ## 🛠 Technology Stack
 *   Java/ReactJs languages

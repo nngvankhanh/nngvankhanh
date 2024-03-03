@@ -2,6 +2,12 @@
 
 Junior Software Engineer with more than a year of commertial experience. I have excellent knowledge in backend development on Java. In general worked with monolitic and serverless arthitectures. Big part of my acitities is open-source.
 
+## 🛠 Technology Stack
+*   Java/ReactJs languages
+*   MySQL, Flyway
+*   Spring Framework, Spring Boot, Spring Data JPA, Spring JDBC template and so on...
+*   GitHub
+  
 <p align='center'>
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=nngvankhanh&show_icons=true&count_private=true"/>
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nngvankhanh&layout=compact"/>
@@ -15,15 +21,7 @@ Junior Software Engineer with more than a year of commertial experience. I have 
    📫 How to reach me: <a href='mailto:vankhanhn735@gmail.com'>vankhanhn735@gmail.com</a>
 </p>
 
-## 🛠 Technology Stack
-*   Java/ReactJs languages
-*   MySQL, Flyway
-*   Spring Framework, Spring Boot, Spring Data JPA, Spring JDBC template and so on...
-*   GitHub
-  
-<div align="center" style="margin: 40px 0">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=nngvankhanh&color=lightgrey">
-</div>
+
 
 <!--
 **nngvankhanh/nngvankhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

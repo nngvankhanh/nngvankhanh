@@ -1,12 +1,6 @@
 **Hi there, welcome to my Git profile** 👋
 
 Junior Software Engineer with more than a year of commertial experience. I have excellent knowledge in backend development on Java. In general worked with monolitic and service oriented arthitectures. Big part of my acitities is open-source.
-
-## 🛠 Technology Stack
-*   Java/ReactJs languages
-*   MySQL, Flyway
-*   Spring Framework, Spring Boot, Spring Data JPA, Spring JDBC template and so on...
-*   GitHub
   
 <p align='center'>
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=nngvankhanh&show_icons=true&count_private=true"/>

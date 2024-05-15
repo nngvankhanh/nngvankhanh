@@ -1,6 +1,6 @@
-**Hi guy, welcome to my Git profile** 👋
+**Hi guy, welcome to MyProject** 👋
 
-Junior Software Engineer with more than a year of commertial experience. I have excellent knowledge in backend development on Java. In general worked with monolitic and service oriented arthitectures. Big part of my acitities is open-source.
+I am a Junior Software Engineer with over a year of study and work experience. I have excellent knowledge of fullstack development programming. Let me know when you're ready to cooperate
 
 
 <p align='center'>

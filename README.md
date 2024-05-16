@@ -3,7 +3,7 @@
 I am a Junior Software Engineer with over a year of study and work experience. I have excellent knowledge of fullstack development programming. Let me know when you're ready to cooperate
 
 
-<p align='center'>
+<p>
    📫 How to reach me: <a href='mailto:vankhanhn735@gmail.com'>vankhanhn735@gmail.com</a>
 </p>
 
